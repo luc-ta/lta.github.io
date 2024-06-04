@@ -15,7 +15,7 @@ Along with mathematics research, the transformative and liberatory power of math
 
 In my free time, I also compose chamber music. Score videos for my finished works are available [on YouTube](https://www.youtube.com/@LucTaMusic). I am more than happy to supply parts to anyone interested in performing my music; feel free to reach out via email.
 
-Recent Updates
+Recent updates
 ======
 July 2024: I will be delivering talks about my research on toric knot mosaics and Legendrian mosaic numbers at the UnKnot V conference at Seattle University.
 
