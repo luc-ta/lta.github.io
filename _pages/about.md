@@ -13,7 +13,7 @@ I am preparing to apply to graduate school in pure mathematics this winter with 
 
 Along with mathematics research, the transformative and liberatory power of mathematics when put into the hands of marginalized groups forms a central part of my career motivations. My experiences as a first-generation college student inform my passion for fostering a mathematics community and practice centered around solidarity, accessibility, and collaboration over competition and individual detachment. These visions inform my advocacy work with the Yale math department's Student Advisory Council, the Just Mathematics Collective, oSTEM, and Delta Alpha Pi, an international honor society for students with disabilities.
 
-In my free time, I also compose chamber music. Score videos for my finished works are available [on YouTube](https://www.youtube.com/@LucTaMusic). I am happy to supply parts to anyone interested in performing my music; feel free to reach out through email.
+In my free time, I also compose chamber music. Score videos for my finished works are available [on YouTube](https://www.youtube.com/@LucTaMusic). I am more than happy to supply parts to anyone interested in performing my music; feel free to reach out via email.
 
 Recent Updates
 ======
