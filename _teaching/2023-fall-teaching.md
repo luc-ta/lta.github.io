@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Real Analysis"
 collection: teaching
-type: "Workshop"
+type: "TA"
 permalink: /teaching/analysis2023
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Yale University"
+date: Fall 2023
+location: "New Haven, CT"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
