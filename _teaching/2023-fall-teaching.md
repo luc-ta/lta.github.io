@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 3"
+title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/analysis2023
