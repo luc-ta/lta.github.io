@@ -4,7 +4,7 @@ collection: teaching
 type: "TA"
 permalink: /teaching/analysis2023
 venue: "Yale University"
-date: Fall 2023
+date: 2023-01-01
 location: "New Haven, CT"
 ---
 
