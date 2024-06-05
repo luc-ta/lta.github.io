@@ -4,7 +4,7 @@ collection: teaching
 type: "TA"
 permalink: /teaching/lebesgue2024
 venue: "University 1, Department"
-date: Spring 2024
+date: 2024-01-01
 location: "New Haven, CT"
 ---
 
