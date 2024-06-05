@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 4"
+title: "Lebesgue Integration and Fourier Analysis"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/lebesgue
+type: "TA"
+permalink: /teaching/lebesgue2024
 venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: Spring 2024
+location: "New Haven, CT"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
