@@ -4,7 +4,7 @@ collection: teaching
 type: "TA"
 permalink: /teaching/calc2022
 venue: "Yale University"
-date: Fall 2022 - Spring 2023
+date: 08/2022 - 05/2023
 location: "New Haven, CT"
 ---
 
